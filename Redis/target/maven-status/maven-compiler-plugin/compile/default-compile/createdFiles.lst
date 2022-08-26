@@ -1,0 +1,4 @@
+com/samco/Redis/Controller/ProductController.class
+com/samco/Redis/RedisApplication.class
+com/samco/Redis/Repository/ProductRepository.class
+com/samco/Redis/Model/Product.class
